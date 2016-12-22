@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApp_2</string>
+    <string name="btnPlayorPause">btnPlayorPause</string>
+    <string name="btnStop">btnStop</string>
+    <string name="btnQuit">btnQuit</string>
+    <string name="btnPre">btnPre</string>
+    <string name="btnNext">btnNext</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="playing">Playing</string>
+    <string name="pause">Pause</string>
+    <string name="musicDir1">/Music/moon river.mp3</string>
+    <string name="musicDir2">/Music/yellow.mp3</string>
+    <string name="musicDir3">/Music/beauty and the beast.mp3</string>
+    <string name="musicDir4">/Music/always with me .mp3</string>
+    <string name="停止">停止</string>
+    <string name="退出">退出</string>
+    <string name="上一曲">上一曲</string>
+    <string name="下一曲">下一曲</string>
+</resources>
